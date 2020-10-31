@@ -1,1 +1,1 @@
-'hello project world'
+print('hi there')
